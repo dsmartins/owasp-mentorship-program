@@ -20,11 +20,11 @@ To empower and grow the next generation of security practitioners through guided
 
 ## 🧱 Program Structure
 Element	Description
-🧑‍🏫 Mentors	Experienced OWASP contributors or AppSec professionals
-👩‍🎓 Mentees	Early-career learners or contributors
-📚 Tracks	Based on OWASP Projects (ZAP, ASVS), technical domains, or soft skills
-🗓️ Duration	12 weeks (recommended), can be customized
-📈 Deliverables	Defined per mentee (e.g., blog posts, code PRs, docs, event contributions)
+| 🧑‍🏫 Mentors	Experienced OWASP contributors or AppSec professionals
+| 👩‍🎓 Mentees	Early-career learners or contributors
+| 📚 Tracks	Based on OWASP Projects (ZAP, ASVS), technical domains, or soft skills
+| 🗓️ Duration	12 weeks (recommended), can be customized
+| 📈 Deliverables	Defined per mentee (e.g., blog posts, code PRs, docs, event contributions)
 
 
 ## 🏛️ Governance Model
